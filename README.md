@@ -18,6 +18,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Aniso13/LeetCode-75-Study-Plan/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Aniso13/LeetCode-75-Study-Plan/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Aniso13/LeetCode-75-Study-Plan/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Aniso13/LeetCode-75-Study-Plan/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/Aniso13/LeetCode-75-Study-Plan/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Aniso13/LeetCode-75-Study-Plan/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Aniso13/LeetCode-75-Study-Plan/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -94,6 +95,7 @@
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/Aniso13/LeetCode-75-Study-Plan/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Aniso13/LeetCode-75-Study-Plan/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/Aniso13/LeetCode-75-Study-Plan/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
@@ -101,4 +103,8 @@
 | ------- |
 | [0735-asteroid-collision](https://github.com/Aniso13/LeetCode-75-Study-Plan/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/Aniso13/LeetCode-75-Study-Plan/tree/master/2470-removing-stars-from-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/Aniso13/LeetCode-75-Study-Plan/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
