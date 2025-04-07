@@ -23,6 +23,7 @@
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Aniso13/LeetCode-75-Study-Plan/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Aniso13/LeetCode-75-Study-Plan/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/Aniso13/LeetCode-75-Study-Plan/tree/master/1894-merge-strings-alternately) |
+| [2470-removing-stars-from-a-string](https://github.com/Aniso13/LeetCode-75-Study-Plan/tree/master/2470-removing-stars-from-a-string) |
 ## Math
 |  |
 | ------- |
@@ -89,4 +90,12 @@
 |  |
 | ------- |
 | [1777-determine-if-two-strings-are-close](https://github.com/Aniso13/LeetCode-75-Study-Plan/tree/master/1777-determine-if-two-strings-are-close) |
+## Stack
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/Aniso13/LeetCode-75-Study-Plan/tree/master/2470-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/Aniso13/LeetCode-75-Study-Plan/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
