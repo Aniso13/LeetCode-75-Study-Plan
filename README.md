@@ -107,4 +107,16 @@
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/Aniso13/LeetCode-75-Study-Plan/tree/master/0394-decode-string) |
+## Design
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/Aniso13/LeetCode-75-Study-Plan/tree/master/0969-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/Aniso13/LeetCode-75-Study-Plan/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/Aniso13/LeetCode-75-Study-Plan/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
