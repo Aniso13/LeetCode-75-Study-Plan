@@ -12,6 +12,7 @@
 | [0443-string-compression](https://github.com/Aniso13/LeetCode-75-Study-Plan/tree/master/0443-string-compression) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Aniso13/LeetCode-75-Study-Plan/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/Aniso13/LeetCode-75-Study-Plan/tree/master/1894-merge-strings-alternately) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Aniso13/LeetCode-75-Study-Plan/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
 | ------- |
@@ -122,4 +123,8 @@
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/Aniso13/LeetCode-75-Study-Plan/tree/master/0969-number-of-recent-calls) |
+## Linked List
+|  |
+| ------- |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Aniso13/LeetCode-75-Study-Plan/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
