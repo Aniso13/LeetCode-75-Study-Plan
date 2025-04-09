@@ -109,6 +109,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Aniso13/LeetCode-75-Study-Plan/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/Aniso13/LeetCode-75-Study-Plan/tree/master/0394-decode-string) |
 ## Design
 |  |
@@ -126,6 +127,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Aniso13/LeetCode-75-Study-Plan/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Aniso13/LeetCode-75-Study-Plan/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Aniso13/LeetCode-75-Study-Plan/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
